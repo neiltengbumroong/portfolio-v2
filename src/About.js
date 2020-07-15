@@ -38,7 +38,7 @@ class About extends Component {
             </div>
             <div className="about-image">
               <img 
-                src="/ProfilePic.jpeg" 
+                src="/images/ProfilePic.jpeg" 
                 className="about-pic"
                 alt="profile-pic"
                 height="300" 

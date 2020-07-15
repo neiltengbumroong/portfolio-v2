@@ -137,21 +137,21 @@
 }
 
 .image-div-1 {
-  background: rgba(119, 180, 203, 0.7) url(/fortnitestats.jpg);
+  background: rgba(119, 180, 203, 0.7) url("/images/fortnitestats.jpg");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .image-div-2 {
-  background: rgba(119, 180, 203, 0.7) url(/TritonExchange2.jpg);
+  background: rgba(119, 180, 203, 0.7) url("/images/TritonExchange2.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .image-div-3 {
-  background: rgba(119, 180, 203, 0.7) url(/Bromies.jpg);
+  background: rgba(119, 180, 203, 0.7) url("/images/Bromies.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
