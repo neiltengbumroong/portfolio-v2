@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import ProfilePic from './images/ProfilePic.jpeg'
 
 import Skills from './Skills';
 import Education from './Education';
@@ -38,7 +39,7 @@ class About extends Component {
             </div>
             <div className="about-image">
               <img 
-                src="/images/ProfilePic.jpeg" 
+                src={ProfilePic}
                 className="about-pic"
                 alt="profile-pic"
                 height="300" 
