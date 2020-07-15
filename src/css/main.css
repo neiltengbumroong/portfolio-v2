@@ -1,0 +1,110 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+
+@media screen and (max-width: 800px) {
+  div.background-wrapper {
+    min-height: 100vh;
+  }
+  strong.name-tag {
+    font-size: 30px;
+  }
+  div.name-wrapper {
+    font-size: 14px;
+  }
+  button.button {
+    font-size: 15px;
+  }
+  button.learn-more-button:hover {
+    background-color: white;
+    color: lightblue;
+    font-size: 17px;
+  }
+
+}
+
+/* --------------------- Fonts --------------------- */
+@font-face {
+  font-family: raleway-light;
+  src: url('../fonts/Raleway/Raleway-ExtraLight.ttf');
+}
+
+@font-face {
+  font-family: cabin;
+  src: url('../fonts/Cabin-Regular.ttf');
+}
+
+
+.background-wrapper {
+  background-image: linear-gradient(0deg, rgba(68, 146, 178, 0.8), rgba(68, 146, 178,0.8)), url("/BeachBG.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  min-height: 100vh; 
+}
+
+
+.name-wrapper {
+  color: white;
+  padding: 10% 20%;
+  text-align: center;
+  font-size: 25px;
+  font-family: raleway-light;
+}
+
+.element {
+  margin: 0;
+  padding: 0;
+}
+
+.name-tag {
+  font-size: 70px;
+}
+
+.title-hr {
+  border: 2px solid white;
+}
+
+.button {
+  transition: 0.5s ease;
+  cursor: pointer;
+  outline: none;
+}
+
+.learn-more-button {
+  font-family: raleway-light;
+  background: transparent;
+  font-size: 20px;
+  color: white;
+  border: 3px solid white;
+  padding: 15px 50px;
+  margin-top: 8%;
+}
+
+.learn-more-button:hover {
+  background-color: white;
+  color: lightblue;
+  font-size: 21px;
+}
+
+.main-social-row {
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 3em;
+}
+
+.main-social-link {
+  color: white;
+}
+
+.main-social-icon {
+  padding: 1.5em;
+}
+
+.main-social-icon:hover {
+  color: black;
+}

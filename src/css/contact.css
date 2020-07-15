@@ -1,0 +1,40 @@
+@media screen and (max-width: 800px) {
+  div.contact-header {
+    font-size: 25px;
+  }
+
+  p.contact-text {
+    font-size: 15px;
+  }
+
+  div.contact-wrapper {
+    margin: auto;
+  }
+}
+
+.contact-wrapper {
+  min-height: 100vh;
+  font-size: 50px;
+  text-align: center;
+  font-family: raleway-light;
+}
+
+.contact-margin-wrapper {
+ padding: 8% 20% 5%;
+}
+
+.contact-icon {
+  color: rgb(68, 146, 178);
+}
+
+.contact-text {
+  font-size: 25px;
+}
+
+.contact-icon-link {
+  color: black;
+}
+
+.contact-icon-link:hover {
+  color: rgb(68, 146, 178);
+}

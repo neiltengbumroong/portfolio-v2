@@ -1,0 +1,230 @@
+@media screen and (max-width: 800px) {
+  div.projects-header {
+    font-size: 25px;
+    padding-bottom: 5%;
+  }
+
+  div.project-row {
+    display: initial;
+  }
+
+  p.project-header {
+    font-size: 15px;
+    font-weight: 900;
+    text-align: left;
+  }
+
+  p.project-text,
+  div.languages-row {
+    font-size: 10px;
+  }
+
+  div.icons-row {
+    font-size: 15px;
+    text-align: center;
+  }
+
+  div.image-div {
+    height: 150px;
+    width: 250px;
+    margin: 8% auto auto;
+  }
+
+  p.other-header {
+    padding-top: 10%;
+    font-size: 25px;
+  }
+
+  div.other-projects-row {
+    display: initial;
+
+  }
+
+  div.other-project-description,
+  div.other-languages-row {
+    font-size: 15px;
+  }
+
+  div.other-project-name {
+    font-size: 20px;
+  }
+
+
+  div.other-project-box {
+    width: 300px;
+    height: 350px;
+    margin: 5% auto;
+  }
+}
+
+@media screen and (min-width: 801px) and (max-width: 1000px) {
+  div.image-div {
+    height: 250px;
+    width: 350px;
+    margin: 8% auto auto;
+  }
+}
+
+.portfolio-wrapper {
+  min-height: 100vh;
+  font-size: 50px;
+  text-align: center;
+  font-family: raleway-light;
+}
+
+.project-margin-wrapper {
+  margin-top: 5%;
+  padding-top: 3%;
+  padding-left: 8%;
+  padding-right: 8%;
+  padding-bottom: 15%;
+}
+
+.project-header {
+  font-size: 30px;
+}
+
+.project-row {
+  display: flex;
+  text-align: center;
+  margin-bottom: 8%;
+}
+
+.project-description {
+  margin: 2% 4%;
+  font-size: 25px;
+  text-align: left;
+}
+
+.project-text {
+  font-size: 18px;
+  text-align: left;
+}
+
+.languages-row {
+  padding-top: 3%;
+  font-size: 15px;
+  text-align: left;
+  font-family: cabin;
+}
+
+.language-span {
+  padding-right: 3%;
+}
+
+.icons-row {
+  padding-top: 5%;
+}
+
+.project-icon-span {
+  display: inline-block;
+  margin-right: 5%;
+  color: black;
+  transition: 0.5s ease;
+}
+
+.project-icon-span:hover {
+  color: rgb(68, 146, 178);
+}
+
+.image-div {
+  margin-top: 8%;
+  position: relative;
+  height: 350px;
+  width: 600px;
+  border-radius: 5px;
+  transition: background-color 0.7s;
+}
+
+.image-div-1 {
+  background: rgba(119, 180, 203, 0.7) url(/fortnitestats.jpg);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.image-div-2 {
+  background: rgba(119, 180, 203, 0.7) url(/TritonExchange2.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.image-div-3 {
+  background: rgba(119, 180, 203, 0.7) url(/Bromies.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.image-div:hover {
+  background-color: rgba(0,0,0,0);
+}
+.image-div:before {
+  position: absolute;
+  top: 0; right: 0; bottom: 0; left: 0;
+  background-color: inherit;
+  content: ' ';
+}
+
+.other-projects-row {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.other-project-box {
+  margin: 20px 5px 0;
+  border: 5px solid black;
+  border-radius: 10px;
+  height: 375px;
+  width: 325px;
+  position: relative;
+  background: rgba(119, 180, 203, 0.1);
+  transition: background-color 0.7s;
+}
+
+.other-project-box:hover {
+  background-color: rgba(0,0,0,0);
+}
+.other-project-box:before {
+  position: absolute;
+  top: 0; right: 0; bottom: 0; left: 0;
+  background-color: inherit;
+  content: ' ';
+}
+
+.other-project-name {
+  font-size: 30px;
+}
+
+.other-project-description {
+  text-align: left;
+  font-size: 15px;
+  padding: 0 5%;
+}
+
+.other-languages-row {
+  font-size: 15px;
+  text-align: center;
+  font-family: cabin;
+}
+
+.other-icon-span {
+  font-size: 20px;
+  color: black;
+  display: inline-block;
+  padding-right: 5%;
+  transition: 0.5s ease;
+}
+
+.bottom-wrapper {
+  position: absolute;
+  width: 100%;
+  bottom: 5%;
+}
+
+.other-icon-span:hover {
+  color: rgb(68, 146, 178);
+  
+}

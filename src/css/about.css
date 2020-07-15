@@ -1,0 +1,186 @@
+@media screen and (max-width: 800px) {
+
+  div.about-text {
+    text-align: center;
+    width: 100%;
+  }
+  p.about-text-header {
+    font-size: 16px;
+  }
+
+  p.about-text-description,
+  div.skills-row-header {
+    font-size: 12px;
+  }
+
+  img.about-pic {
+    height: 150px;
+    width: 150px;
+    margin: 10% auto;
+  }
+
+  div.about-row-wrapper {
+    display: initial;
+  }
+
+  button.extras-button,
+  button.extras-button-active,
+  p.skill-item  {
+    font-size: 10px;
+  }
+
+  div.skills-row {
+    columns: 2 auto;
+  }
+
+
+
+}
+
+.about-background-wrapper {
+  min-height: 100vh;
+  font-family: raleway-light;
+}
+
+.about-margin-wrapper {
+  margin-top: 15%;
+  padding: 5% 15% 15%;
+}
+
+.about-row-wrapper {
+  display: flex;
+}
+.about-text {
+  padding-right: 15%;
+}
+
+.about-text-header {
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.about-text-description {
+  font-size: 20px;
+}
+
+.bio-link {
+  color:rgb(68, 146, 178);
+  text-decoration: none;
+}
+
+.bio-link:hover {
+  box-shadow: inset 0 -2px 0 0 rgb(68, 146, 178);
+  transition: 0.3s ease;
+}
+
+.skills-row-header {
+  text-align: center;
+  font-size: 20px;
+}
+
+.skills-row-wrapper {
+  margin: 5% 3% 3%;
+}
+
+.skills-row {
+  columns: 4 auto;
+}
+
+
+.skill-item {
+  text-align: left;
+  padding: 7px 19px 7px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.skill-icon {
+  color:rgb(68, 146, 178);
+  text-decoration: none;
+}
+
+.education-row-wrapper {
+  margin: 5% 3% 3%;
+  text-align: center;
+}
+
+.education-header {
+  columns: 2 auto;
+  font-size: 20px;
+  text-align: center;
+}
+
+.education-header-paragraph {
+  margin-top: 0;
+}
+
+.awards-row {
+  columns: 2 auto;
+  text-align: center;
+  padding-bottom: 2%;
+}
+
+.award-item {
+  text-align: center;
+  padding: 7px 19px 7px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.about-image {
+}
+
+.extras-button-row {
+  text-align: center;
+  margin-top: 5%;
+}
+
+.extras-button {
+  padding: 5px;
+  margin: 0 5%;
+  border: none;
+  background: transparent;
+  font-size: 20px;
+  cursor: pointer;
+  font-family: raleway-light;
+  transition: 0.5s ease;
+}
+
+.extras-button:hover {
+  color: rgb(68, 146, 178);
+}
+
+.extras-button:active {
+  box-shadow: inset 0 -2px 0 0 rgb(68, 146, 178);
+  border: none;
+  outline: none;
+  color: rgb(68, 146, 178);
+}
+
+.extras-button-active {
+  padding: 5px;
+  margin: 0 5%;
+  border: none;
+  outline: none;
+  background: transparent;
+  font-size: 20px;
+  cursor: pointer;
+  font-family: raleway-light;
+  color: rgb(68, 146, 178);
+  box-shadow: inset 0 -2px 0 0 rgb(68, 146, 178);
+  transition: 0.5s ease;
+}
+
+.ec-row-wrapper {
+  margin: 5% auto 5%;;
+  display: flex;
+  justify-content: center;
+}
+
+.ec-item {
+  margin: 0 5%;
+}
+
+.ec-text {
+  text-align: center;
+}
