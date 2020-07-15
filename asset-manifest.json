@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio-v2/static/css/main.eb0cbd4c.chunk.css",
+    "main.js": "/portfolio-v2/static/js/main.20071607.chunk.js",
+    "main.js.map": "/portfolio-v2/static/js/main.20071607.chunk.js.map",
+    "runtime-main.js": "/portfolio-v2/static/js/runtime-main.a8d6ddc0.js",
+    "runtime-main.js.map": "/portfolio-v2/static/js/runtime-main.a8d6ddc0.js.map",
+    "static/js/2.5f2466ad.chunk.js": "/portfolio-v2/static/js/2.5f2466ad.chunk.js",
+    "static/js/2.5f2466ad.chunk.js.map": "/portfolio-v2/static/js/2.5f2466ad.chunk.js.map",
+    "index.html": "/portfolio-v2/index.html",
+    "precache-manifest.3440ed418282fa884a462b497e7d72ea.js": "/portfolio-v2/precache-manifest.3440ed418282fa884a462b497e7d72ea.js",
+    "service-worker.js": "/portfolio-v2/service-worker.js",
+    "static/css/main.eb0cbd4c.chunk.css.map": "/portfolio-v2/static/css/main.eb0cbd4c.chunk.css.map",
+    "static/js/2.5f2466ad.chunk.js.LICENSE.txt": "/portfolio-v2/static/js/2.5f2466ad.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/portfolio-v2/static/media/Raleway-ExtraLight.d2a8929f.ttf",
+    "static/media/NeilTengbumroong.pdf": "/portfolio-v2/static/media/NeilTengbumroong.251a6aa3.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8d6ddc0.js",
+    "static/js/2.5f2466ad.chunk.js",
+    "static/css/main.eb0cbd4c.chunk.css",
+    "static/js/main.20071607.chunk.js"
+  ]
+}
