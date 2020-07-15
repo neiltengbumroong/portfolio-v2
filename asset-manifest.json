@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/portfolio-v2/static/css/main.8f9e9549.chunk.css",
-    "main.js": "/portfolio-v2/static/js/main.ef068154.chunk.js",
-    "main.js.map": "/portfolio-v2/static/js/main.ef068154.chunk.js.map",
-    "runtime-main.js": "/portfolio-v2/static/js/runtime-main.a8d6ddc0.js",
-    "runtime-main.js.map": "/portfolio-v2/static/js/runtime-main.a8d6ddc0.js.map",
-    "static/js/2.c9685564.chunk.js": "/portfolio-v2/static/js/2.c9685564.chunk.js",
-    "static/js/2.c9685564.chunk.js.map": "/portfolio-v2/static/js/2.c9685564.chunk.js.map",
-    "index.html": "/portfolio-v2/index.html",
-    "precache-manifest.e8364a0749b473b1e15ad806967bafac.js": "/portfolio-v2/precache-manifest.e8364a0749b473b1e15ad806967bafac.js",
-    "service-worker.js": "/portfolio-v2/service-worker.js",
-    "static/css/main.8f9e9549.chunk.css.map": "/portfolio-v2/static/css/main.8f9e9549.chunk.css.map",
-    "static/js/2.c9685564.chunk.js.LICENSE.txt": "/portfolio-v2/static/js/2.c9685564.chunk.js.LICENSE.txt",
-    "static/media/main.css": "/portfolio-v2/static/media/Raleway-ExtraLight.d2a8929f.ttf",
-    "static/media/portfolio.css": "/portfolio-v2/static/media/TritonExchange2.a7d99a9f.jpg",
-    "static/media/NeilTengbumroong.pdf": "/portfolio-v2/static/media/NeilTengbumroong.251a6aa3.pdf",
-    "static/media/ProfilePic.jpeg": "/portfolio-v2/static/media/ProfilePic.a9ebc587.jpeg"
+    "main.css": "/static/css/main.2ad4eac4.chunk.css",
+    "main.js": "/static/js/main.ef068154.chunk.js",
+    "main.js.map": "/static/js/main.ef068154.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1a223cb7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1a223cb7.js.map",
+    "static/js/2.c9685564.chunk.js": "/static/js/2.c9685564.chunk.js",
+    "static/js/2.c9685564.chunk.js.map": "/static/js/2.c9685564.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1cb618abee47de59397927ce78f040f4.js": "/precache-manifest.1cb618abee47de59397927ce78f040f4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2ad4eac4.chunk.css.map": "/static/css/main.2ad4eac4.chunk.css.map",
+    "static/js/2.c9685564.chunk.js.LICENSE.txt": "/static/js/2.c9685564.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/static/media/Raleway-ExtraLight.d2a8929f.ttf",
+    "static/media/portfolio.css": "/static/media/TritonExchange2.a7d99a9f.jpg",
+    "static/media/NeilTengbumroong.pdf": "/static/media/NeilTengbumroong.251a6aa3.pdf",
+    "static/media/ProfilePic.jpeg": "/static/media/ProfilePic.a9ebc587.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a8d6ddc0.js",
+    "static/js/runtime-main.1a223cb7.js",
     "static/js/2.c9685564.chunk.js",
-    "static/css/main.8f9e9549.chunk.css",
+    "static/css/main.2ad4eac4.chunk.css",
     "static/js/main.ef068154.chunk.js"
   ]
 }
