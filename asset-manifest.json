@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.2ad4eac4.chunk.css",
+    "main.css": "/static/css/main.80123980.chunk.css",
     "main.js": "/static/js/main.ef068154.chunk.js",
     "main.js.map": "/static/js/main.ef068154.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1a223cb7.js",
@@ -8,9 +8,9 @@
     "static/js/2.c9685564.chunk.js": "/static/js/2.c9685564.chunk.js",
     "static/js/2.c9685564.chunk.js.map": "/static/js/2.c9685564.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.fb4870eb093970448e4c46c2a14d96bd.js": "/precache-manifest.fb4870eb093970448e4c46c2a14d96bd.js",
+    "precache-manifest.621708bb246ad22a77930f229bc0bfab.js": "/precache-manifest.621708bb246ad22a77930f229bc0bfab.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.2ad4eac4.chunk.css.map": "/static/css/main.2ad4eac4.chunk.css.map",
+    "static/css/main.80123980.chunk.css.map": "/static/css/main.80123980.chunk.css.map",
     "static/js/2.c9685564.chunk.js.LICENSE.txt": "/static/js/2.c9685564.chunk.js.LICENSE.txt",
     "static/media/main.css": "/static/media/Raleway-ExtraLight.d2a8929f.ttf",
     "static/media/portfolio.css": "/static/media/TritonExchange2.a7d99a9f.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.1a223cb7.js",
     "static/js/2.c9685564.chunk.js",
-    "static/css/main.2ad4eac4.chunk.css",
+    "static/css/main.80123980.chunk.css",
     "static/js/main.ef068154.chunk.js"
   ]
 }
