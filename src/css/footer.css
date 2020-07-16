@@ -2,6 +2,10 @@
   div.footer-wrapper {
     font-size: 13px;
   }
+
+  a.social-link {
+    padding: 5%;
+  }
 }
 
 .footer-wrapper {
@@ -17,7 +21,7 @@
 }
 
 .social-icon {
-  padding: 1%;
+  padding: 3%;
 }
 
 .social-icon:hover {

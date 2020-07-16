@@ -43,8 +43,6 @@ const Portfolio = () => (
           <a href="https://fortnite-plus.herokuapp.com/" target="_blank" rel="noopener noreferrer">
             <div className="image-div image-div-1"></div>
           </a>
-
-
         </div>
         <div className="project-row">       
           <a href="https://triton-exchange.netlify.app/" target="_blank" rel="noopener noreferrer">

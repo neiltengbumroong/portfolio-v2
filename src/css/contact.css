@@ -9,6 +9,7 @@
 
   div.contact-wrapper {
     margin: auto;
+    min-height: 75vh;
   }
 }
 
