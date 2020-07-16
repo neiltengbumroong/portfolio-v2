@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fb27ee7ff57a66d5ec2644bc7c43f505",
+    "revision": "7399b5b959af48fddf1610560262fc4a",
     "url": "/index.html"
   },
   {
-    "revision": "0b3909d9f62b31f925c3",
-    "url": "/static/css/main.04183fd4.chunk.css"
+    "revision": "b3b6a28aea2bd8a79f97",
+    "url": "/static/css/main.48c216cb.chunk.css"
   },
   {
     "revision": "2153c1654b13c9a812b2",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.c9685564.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0b3909d9f62b31f925c3",
+    "revision": "b3b6a28aea2bd8a79f97",
     "url": "/static/js/main.ef068154.chunk.js"
   },
   {
@@ -48,8 +48,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ProfilePic.a9ebc587.jpeg"
   },
   {
-    "revision": "d2a8929f630cba5875d97a5f34da6162",
-    "url": "/static/media/Raleway-ExtraLight.d2a8929f.ttf"
+    "revision": "466d154fedd98f85c9deb363ccf859a7",
+    "url": "/static/media/Raleway-Light.466d154f.ttf"
+  },
+  {
+    "revision": "bb5ae98e4ce1a64042093dc235c305ed",
+    "url": "/static/media/Raleway-Medium.bb5ae98e.ttf"
   },
   {
     "revision": "a7d99a9f160d87eae2a88a6250a1628d",
