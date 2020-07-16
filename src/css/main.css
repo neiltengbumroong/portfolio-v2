@@ -8,6 +8,7 @@ html, body {
 @media screen and (max-width: 800px) {
   div.background-wrapper {
     min-height: 100vh;
+    padding-bottom: 0;
   }
   strong.name-tag {
     font-size: 30px;
@@ -44,7 +45,8 @@ html, body {
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
-  min-height: 100vh; 
+  min-height: 100vh;
+  padding-bottom: 10%;
 }
 
 
