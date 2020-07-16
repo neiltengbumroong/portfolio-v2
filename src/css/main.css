@@ -30,7 +30,12 @@ html, body {
 /* --------------------- Fonts --------------------- */
 @font-face {
   font-family: raleway-light;
-  src: url('../fonts/Raleway/Raleway-ExtraLight.ttf');
+  src: url('../fonts/Raleway/Raleway-Light.ttf');
+}
+
+@font-face {
+  font-family: raleway-medium;
+  src: url('../fonts/Raleway/Raleway-Medium.ttf');
 }
 
 @font-face {
@@ -55,7 +60,7 @@ html, body {
   padding: 10% 20%;
   text-align: center;
   font-size: 25px;
-  font-family: raleway-light;
+  font-family: raleway-medium;
 }
 
 .element {
@@ -78,7 +83,7 @@ html, body {
 }
 
 .learn-more-button {
-  font-family: raleway-light;
+  font-family: raleway-medium;
   background: transparent;
   font-size: 20px;
   color: white;
