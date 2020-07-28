@@ -1,21 +1,17 @@
 @media screen and (max-width: 800px) {
 
-  div.about-text {
-    text-align: center;
-    width: 100%;
-  }
   p.about-text-header {
-    font-size: 25px;
+    font-size: 30px;
   }
 
   p.about-text-description,
   div.skills-row-header {
-    font-size: 18px;
+    font-size: 20px;
   }
 
   img.about-pic {
-    height: 200px;
-    width: 200px;
+    height: 250px;
+    width: 250px;
     margin: 10% auto;
   }
 
@@ -32,8 +28,6 @@
   div.skills-row {
     columns: 2 auto;
   }
-
-
 
 }
 
