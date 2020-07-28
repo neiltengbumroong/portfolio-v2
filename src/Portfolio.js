@@ -31,22 +31,33 @@ const Portfolio = () => (
               <span className="language-span">Reach Router</span>
               <span className="language-span">Heroku</span>
            </div>
-           <div className="icons-row">
-             <a href="https://github.com/neiltengbumroong/Fortnite-Plus" target="_blank" rel="noopener noreferrer">
-               <span className="project-icon-span"><FaGithub/></span>
-             </a>
-             <a href="https://fortnite-plus.herokuapp.com/" target="_blank" rel="noopener noreferrer">
-               <span className="project-icon-span"><FiExternalLink/></span>
-             </a>
-           </div>
           </div>   
-          <a href="https://fortnite-plus.herokuapp.com/" target="_blank" rel="noopener noreferrer">
-            <div className="image-div image-div-1"></div>
+          <a href="https://fortnite-plus.herokuapp.com/" target="_blank" rel="noopener noreferrer">     
+            <div className="image-div image-div-1">
+              <div className="overlay">
+                <div className="icons-row">
+                  <a href="https://github.com/neiltengbumroong/Fortnite-Plus" target="_blank" rel="noopener noreferrer">
+                    <span className="project-icon-span"><FaGithub/></span>
+                  </a>
+                  <a href="https://fortnite-plus.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+                    <span className="project-icon-span"><FiExternalLink/></span>
+                  </a>
+                </div>
+              </div>
+            </div>        
           </a>
         </div>
         <div className="project-row">       
           <a href="https://triton-exchange.netlify.app/" target="_blank" rel="noopener noreferrer">
-            <div className="image-div image-div-2"></div>
+            <div className="image-div image-div-2">
+              <div className="overlay">
+                <div className="icons-row">
+                  <a href="https://triton-exchange.netlify.app/" target="_blank" rel="noopener noreferrer">
+                    <span className="project-icon-span"><FiExternalLink/></span>
+                  </a>
+                </div>
+              </div>
+            </div>
           </a>
           <div className="project-description">
             <p className="project-header">Triton Exchange</p>
@@ -68,11 +79,7 @@ const Portfolio = () => (
               <span className="language-span">DynamoDB</span>
               <span className="language-span">Netlify</span>
            </div>
-           <div className="icons-row">
-             <a href="https://triton-exchange.netlify.app/" target="_blank" rel="noopener noreferrer">
-               <span className="project-icon-span"><FiExternalLink/></span>
-             </a>
-           </div>
+
           </div>
         </div>
 
@@ -97,17 +104,21 @@ const Portfolio = () => (
               <span className="language-span">Mongoose</span>
               <span className="language-span">Heroku</span>
            </div>
-           <div className="icons-row">
-             <a href="https://github.com/neiltengbumroong/Bromies" target="_blank" rel="noopener noreferrer">
-               <span className="project-icon-span"><FaGithub/></span>
-             </a>
-             <a href="https://bromies.herokuapp.com/" target="_blank" rel="noopener noreferrer">
-               <span className="project-icon-span"><FiExternalLink/></span>
-             </a>
-           </div>
+           
           </div>      
           <a href="https://bromies.herokuapp.com/" target="_blank" rel="noopener noreferrer">
-            <div className="image-div image-div-3"></div>
+            <div className="image-div image-div-3">
+              <div className="overlay">
+                <div className="icons-row">
+                  <a href="https://github.com/neiltengbumroong/Bromies" target="_blank" rel="noopener noreferrer">
+                    <span className="project-icon-span"><FaGithub/></span>
+                  </a>
+                  <a href="https://bromies.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+                    <span className="project-icon-span"><FiExternalLink/></span>
+                  </a>
+                </div>
+              </div>
+            </div>
           </a>  
         </div>  
       </div>

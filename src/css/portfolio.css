@@ -68,6 +68,10 @@
   }
 }
 
+* {
+  box-sizing: border-box;
+}
+
 .portfolio-wrapper {
   min-height: 100vh;
   font-size: 50px;
@@ -119,14 +123,16 @@
 }
 
 .icons-row {
-  padding-top: 5%;
+  display: block;
+  padding: 23%;
 }
 
 .project-icon-span {
   display: inline-block;
   margin-right: 5%;
-  color: black;
+  color: white;
   transition: 0.5s ease;
+  z-index: 100;
 }
 
 .project-icon-span:hover {
@@ -138,39 +144,47 @@
   position: relative;
   height: 350px;
   width: 600px;
-  border-radius: 5px;
-  transition: background-color 0.7s;
+  display: block;
+  border-radius: 10px;
+  transition: background-color 0.5s;
 }
 
 .image-div-1 {
-  background: rgba(119, 180, 203, 0.7) url("../images/FortniteStats.jpg");
+  background: url("../images/FortniteStats.jpg");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .image-div-2 {
-  background: rgba(119, 180, 203, 0.7) url("../images/TritonExchange2.jpg");
+  background: url("../images/TritonExchange2.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .image-div-3 {
-  background: rgba(119, 180, 203, 0.7) url("../images/Bromies.jpg");
+  background: url("../images/Bromies.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
-.image-div:hover {
-  background-color: rgba(0,0,0,0);
+.image-div:hover .overlay {
+  opacity: 1;
 }
-.image-div:before {
-  position: absolute;
-  top: 0; right: 0; bottom: 0; left: 0;
-  background-color: inherit;
-  content: ' ';
+
+.overlay {
+  background-color: rgba(119, 180, 203, 0.7);
+  opacity: 0;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  transition: 0.5s ease;
+  border-radius: 10px;
 }
 
 .other-projects-row {
