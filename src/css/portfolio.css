@@ -43,9 +43,12 @@
 
   }
 
-  div.other-project-description,
-  div.other-languages-row {
+  div.other-project-description {
     font-size: 15px;
+  }
+
+  div.other-languages-row {
+    margin: auto 5%;
   }
 
   div.other-project-name {
