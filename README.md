@@ -4,6 +4,6 @@ Built with React and deployed on July 14, 2020.
 
 Features: <br>
 * React-icons
-* Responsive design
+* Responsive design (from scratch!)
 * Mobile-friendly
 * Picture and bio of a really cool guy (me)
