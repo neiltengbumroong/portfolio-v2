@@ -9,6 +9,10 @@
     font-size: 20px;
   }
 
+  div.about-text {
+    padding-right: 0;
+  }
+
   img.about-pic {
     height: 250px;
     width: 250px;
@@ -119,9 +123,6 @@
   padding: 7px 19px 7px;
   margin-bottom: 0;
   margin-top: 0;
-}
-
-.about-image {
 }
 
 .extras-button-row {
