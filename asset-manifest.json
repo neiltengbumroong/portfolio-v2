@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.e1a7a51b.chunk.css",
-    "main.js": "/static/js/main.4406a852.chunk.js",
-    "main.js.map": "/static/js/main.4406a852.chunk.js.map",
+    "main.css": "/static/css/main.74d96eb3.chunk.css",
+    "main.js": "/static/js/main.1dbe8dc0.chunk.js",
+    "main.js.map": "/static/js/main.1dbe8dc0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1a223cb7.js",
     "runtime-main.js.map": "/static/js/runtime-main.1a223cb7.js.map",
     "static/js/2.c9685564.chunk.js": "/static/js/2.c9685564.chunk.js",
     "static/js/2.c9685564.chunk.js.map": "/static/js/2.c9685564.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1653e14af832d3a844e8e2c8f1bb1226.js": "/precache-manifest.1653e14af832d3a844e8e2c8f1bb1226.js",
+    "precache-manifest.83d201dc5f74f2f7afb0f4c6dcc8ee4b.js": "/precache-manifest.83d201dc5f74f2f7afb0f4c6dcc8ee4b.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.e1a7a51b.chunk.css.map": "/static/css/main.e1a7a51b.chunk.css.map",
+    "static/css/main.74d96eb3.chunk.css.map": "/static/css/main.74d96eb3.chunk.css.map",
     "static/js/2.c9685564.chunk.js.LICENSE.txt": "/static/js/2.c9685564.chunk.js.LICENSE.txt",
     "static/media/main.css": "/static/media/Raleway-Medium.bb5ae98e.ttf",
     "static/media/portfolio.css": "/static/media/TritonExchange2.a7d99a9f.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.1a223cb7.js",
     "static/js/2.c9685564.chunk.js",
-    "static/css/main.e1a7a51b.chunk.css",
-    "static/js/main.4406a852.chunk.js"
+    "static/css/main.74d96eb3.chunk.css",
+    "static/js/main.1dbe8dc0.chunk.js"
   ]
 }

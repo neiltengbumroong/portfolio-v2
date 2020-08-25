@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "acaddbeb4c90ad1368c60c34469a9851",
+    "revision": "d42c46a16617cfa31f6e35363d00cdc1",
     "url": "/index.html"
   },
   {
-    "revision": "54427ce60b4c3c0782d8",
-    "url": "/static/css/main.e1a7a51b.chunk.css"
+    "revision": "f02aefc2a07d1857afb4",
+    "url": "/static/css/main.74d96eb3.chunk.css"
   },
   {
     "revision": "2153c1654b13c9a812b2",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.c9685564.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "54427ce60b4c3c0782d8",
-    "url": "/static/js/main.4406a852.chunk.js"
+    "revision": "f02aefc2a07d1857afb4",
+    "url": "/static/js/main.1dbe8dc0.chunk.js"
   },
   {
     "revision": "1589b6a6e3127dc97ecf",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8028e2607d2942a0fb3c7956caf1d994",
     "url": "/static/media/Bromies.8028e260.jpg"
+  },
+  {
+    "revision": "0d7a009385a76906c717fd1add564e58",
+    "url": "/static/media/CPMHAManager.0d7a0093.jpg"
   },
   {
     "revision": "46cdb38630e8f7ea5ee8519658ee51c5",
