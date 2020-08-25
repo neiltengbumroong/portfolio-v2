@@ -1,4 +1,30 @@
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 450px) {
+  div.image-div {
+    height: 250px;
+    width: 300px;
+    margin: 8% auto auto;
+  }
+  div.project-row {
+    display: initial;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+@media screen and (min-width: 451px) and (max-width: 650px) {
+  div.image-div {
+    height: 350px;
+    width: 550px;
+    margin: 8% auto auto;
+  }
+  div.project-row {
+    display: initial;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+@media screen and (min-width: 651px) and (max-width: 800px) {
   div.projects-header {
     font-size: 30px;
     padding-bottom: 5%;
@@ -28,8 +54,8 @@
   }
 
   div.image-div {
-    height: 150px;
-    width: 250px;
+    height: 350px;
+    width: 600px;
     margin: 8% auto auto;
   }
 
@@ -65,9 +91,12 @@
 
 @media screen and (min-width: 801px) and (max-width: 1000px) {
   div.image-div {
-    height: 250px;
-    width: 350px;
+    height: 400px;
+    width: 700px;
     margin: 8% auto auto;
+  }
+  div.project-row {
+    display: initial;
   }
 }
 
@@ -146,15 +175,22 @@
   margin-top: 8%;
   position: relative;
   height: 350px;
-  width: 600px;
+  width: 620px;
   display: block;
   border-radius: 10px;
   transition: background-color 0.5s;
 }
 
+.image-div-0 {
+  background: url("../images/CPMHAManager.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
 .image-div-1 {
   background: url("../images/FortniteStats.jpg");
-  background-size: contain;
+  background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }

@@ -11,6 +11,45 @@ const Portfolio = () => (
       </div>
       <div className="project-wrapper">
         <div className="project-row">       
+          <a href="https://cpmhamanager.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+            <div className="image-div image-div-0">
+              <div className="overlay">
+                <div className="icons-row">
+                  <a href="https://github.com/neiltengbumroong/cpmha-intern-organizer" target="_blank" rel="noopener noreferrer">
+                    <span className="project-icon-span"><FaGithub/></span>
+                  </a>
+                  <a href="https://cpmhamanager.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+                    <span className="project-icon-span"><FiExternalLink/></span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </a>
+          <div className="project-description">
+            <p className="project-header">CPMHA Manager</p>
+            <p className="project-text">
+            A full-stack administrative website I built for CPMHA (<a className="bio-link" href="https://cpmha.com/" target="_blank" rel="noopener noreferrer">cpmha.com</a>)
+            during my summer 2020 internship. As a small nonprofit with a growing number of interns, CPMHA needed a better way to keep track of announcements,
+            tasks, interns, teams, and basically anything else a working team needs to function.  
+            <br/> <br/>
+            I built the entire site alone from the ground up in 3 weeks. I utilized many new useful technologies for this app, namely React-Bootstrap, react-router, 
+            full-calendar, and a few others. I also learned how to design more efficient MongoDB schemas, using one-to-one relationships with ObjectIDs and subdocuments
+            for faster retrieval. 
+            </p>
+            
+            <div className="languages-row">
+              <span className="language-span">React</span>
+              <span className="language-span">Node.js</span>
+              <span className="language-span">React-Bootstrap</span>
+              <span className="language-span">MongoDB</span>
+              <span className="language-span">Mongoose</span>
+              <span className="language-span">Heroku</span>
+           </div>
+
+          </div>
+        </div>
+
+        <div className="project-row">       
           <div className="project-description">
             <p className="project-header">Fortnite Plus</p>
             <p className="project-text">

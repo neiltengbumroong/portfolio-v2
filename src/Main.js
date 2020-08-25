@@ -7,17 +7,10 @@ import Contact from './Contact';
 import Footer from './Footer';
 import { Link, Element } from 'react-scroll';
 import Headroom from 'react-headroom';
-import { Jumbotron, Row, Col } from 'react-bootstrap';
 
 import './css/main.css';
 
-
-
 class Main extends Component {
-  constructor(props) {
-    super(props);
-    this.state = {}
-  }
 
   render() {
     return (
