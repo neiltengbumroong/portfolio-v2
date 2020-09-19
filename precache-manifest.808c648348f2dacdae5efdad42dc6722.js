@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d42c46a16617cfa31f6e35363d00cdc1",
+    "revision": "94c73636d27cb23cc11687abc143f54e",
     "url": "/index.html"
   },
   {
-    "revision": "f02aefc2a07d1857afb4",
+    "revision": "2c0d6f77edf91faf7412",
     "url": "/static/css/main.74d96eb3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.c9685564.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f02aefc2a07d1857afb4",
-    "url": "/static/js/main.1dbe8dc0.chunk.js"
+    "revision": "2c0d6f77edf91faf7412",
+    "url": "/static/js/main.39834644.chunk.js"
   },
   {
     "revision": "1589b6a6e3127dc97ecf",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/FortniteStats.d3bcebe2.jpg"
   },
   {
-    "revision": "251a6aa3f84c7062bc2584ec7ea19e70",
-    "url": "/static/media/NeilTengbumroong.251a6aa3.pdf"
+    "revision": "9781e3be4c4508518766424e42dac792",
+    "url": "/static/media/NeilTengbumroong.9781e3be.pdf"
   },
   {
     "revision": "a9ebc5871405873a74d007894a621e47",
