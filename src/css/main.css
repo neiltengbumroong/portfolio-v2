@@ -39,6 +39,11 @@ html, body {
 }
 
 @font-face {
+  font-family: raleway-regular;
+  src: url('../fonts/Raleway/Raleway-Regular.ttf');
+}
+
+@font-face {
   font-family: cabin;
   src: url('../fonts/Cabin-Regular.ttf');
 }

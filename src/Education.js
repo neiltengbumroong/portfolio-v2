@@ -12,7 +12,7 @@ const Education = () => (
         <strong>Degree/Major:</strong> B.S. Computer Science
       </p>
       <p className="education-header-paragraph">
-        <strong>GPA:</strong> 3.48 &nbsp;<strong>Major GPA:</strong> 3.50
+        <strong>GPA:</strong> 3.53/4.00
       </p>
       <p className="education-header-paragraph">
         <strong>Graduation Date:</strong> June 2021
@@ -29,7 +29,11 @@ const Education = () => (
       <p className="skill-item"><span className="skill-icon"><IoMdArrowDropright/></span><b>CSE 132A</b> - Database System Principles</p>
       <p className="skill-item"><span className="skill-icon"><IoMdArrowDropright/></span><b>CSE 105</b> - Theory of Computation</p>
       <p className="skill-item"><span className="skill-icon"><IoMdArrowDropright/></span><b>CSE 150B</b> - AI: Search and Reasoning</p>
-      <p className="skill-item"><span className="skill-icon"><IoMdArrowDropright/></span><b>CSE 140</b> - Combinational Logic Design</p>       
+      <p className="skill-item"><span className="skill-icon"><IoMdArrowDropright/></span><b>CSE 140</b> - Combinational Logic Design</p>     
+      <p className="skill-item"><span className="skill-icon"><IoMdArrowDropright/></span><b>CSE 124</b> - Networked Services</p>
+      <p className="skill-item"><span className="skill-icon"><IoMdArrowDropright/></span><b>CSE 127</b> - Introduction to Cybersecurity</p>
+      <p className="skill-item"><span className="skill-icon"><IoMdArrowDropright/></span><b>CSE 158</b> - Recommender Systems</p>
+      <p className="skill-item"><span className="skill-icon"><IoMdArrowDropright/></span><b>COGS 187A</b> - Usability and Architecture</p>
     </div>
     <div className="skills-row-header">
       <p><b>Awards</b></p>

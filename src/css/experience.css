@@ -1,0 +1,82 @@
+@media screen and (max-width: 650px) {
+  div.exp-row {
+    display: initial;
+    margin: 0;
+    padding: 0;
+  }
+
+  div.exp-pic-wrapper {
+    margin: 8% auto;
+    display: flex;
+    justify-content: center;
+  }
+
+  div.exp-name {
+    font-size: 30px;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.experience-wrapper {
+  min-height: 100vh;
+  font-size: 50px;
+  text-align: center;
+  font-family: raleway-light;
+}
+
+.experience-margin-wrapper {
+  margin-top: 5%;
+  padding: 3% 8% 15%; 
+}
+
+.experience-header {
+  font-size: 30px;
+  font-family: raleway-medium;
+}
+
+.exp-pic {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.exp-pic-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.exp-info-wrapper {
+  text-align: left;
+  margin-left: 3rem;
+}
+
+.exp-row {
+  display: flex;
+  text-align: center;
+  margin: 5%;
+}
+
+.exp-name {
+  font-size: 40px;
+  font-family: raleway-medium;
+}
+
+.exp-info {
+  font-size: 20px;
+  font-family: raleway-regular;
+}
+
+.exp-info-extra {
+  font-size: 15px;
+}
+
+.exp-info p {
+  margin: 0;
+  padding: 0;
+}
+
+.exp-info-desc {
+  font-size: 18px;
+}

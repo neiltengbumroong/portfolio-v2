@@ -9,11 +9,11 @@ const Contact = () => (
         <p>Contact Me</p>
       </div>
       <p className="contact-text">
-        I'm still on the lookout for a summer internship opportunity, so whether you're interested or 
-        would just like to chat, my email's door is always open and I will try my best to always answer!
+        If you thought my website (or anything I did) was at least somewhat cool, feel free to reach out!
+        My email is always open and I'd love to chat!
       </p>
       <div className="contact-icon">
-        <a href="mailto: ntengbum@ucsd.edu" target="_blank" rel="noopener noreferrer" className="contact-icon-link"><FiMail/> </a>
+        <a href="mailto: neil.tengbumroong@gmail.com" target="_blank" rel="noopener noreferrer" className="contact-icon-link"><FiMail/> </a>
       </div>
     </div>
     

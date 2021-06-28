@@ -10,6 +10,7 @@ const Navbar = () => (
     <Link to="contact" className="nav-link" smooth={true}>Contact</Link>
     <a href={Resume} target="_blank" rel="noopener noreferrer" className="nav-link">Resume</a>
     <Link to="portfolio" className="nav-link" smooth={true}>Portfolio</Link>
+    <Link to="experience" className="nav-link" smooth={true}>Experience</Link>
     <Link to="about" className="nav-link" smooth={true}>About</Link>
   </nav>
 );

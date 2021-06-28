@@ -60,7 +60,7 @@ const Portfolio = () => (
               The application is also mobile-friendly, and will adjust depending on whether you're using a phone,
               tablet, laptop, or desktop.
               <br/> <br/>
-              (Hint: try typing "Neiliooo" in the search bar to see stats from yours truly!) 
+              (Hint: try typing "neil is dogwater" in the search bar to see stats from yours truly!) 
             </p>
             <div className="languages-row">
               <span className="language-span">React</span>
@@ -235,11 +235,6 @@ const Portfolio = () => (
               <span className="language-span">UX/UI</span>
               <span className="language-span">Adobe XD</span>
             </div>
-            <div className="other-icons-row">
-              <a href="https://drive.google.com/drive/folders/1NGxuEZ8KVxP6D_bN3Eq3hVLewR0r1Qab?usp=sharing" target="_blank" rel="noopener noreferrer">
-                <span className="other-icon-span"><FiExternalLink/></span>
-              </a>
-            </div>  
           </div>    
         </div>
 

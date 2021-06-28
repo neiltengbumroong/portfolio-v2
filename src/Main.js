@@ -1,10 +1,11 @@
 import React, { Component } from 'react';
 import About from './About';
+import Contact from './Contact';
+import Experience from './Experience';
+import Footer from './Footer';
 import Navbar from './Navbar';
 import Navshort from './Navshort';
 import Portfolio from './Portfolio';
-import Contact from './Contact';
-import Footer from './Footer';
 import { Link, Element } from 'react-scroll';
 import Headroom from 'react-headroom';
 
@@ -28,14 +29,17 @@ class Main extends Component {
           <div className="name-wrapper">
             <strong className="name-tag">Neil Tengbumroong</strong>
             <hr className="title-hr"/>
-            <p>Aspiring Software Engineer • NCAA Student-Athlete </p>
-            <Link to="portfolio" smooth={true}>
-              <button className="button learn-more-button">View My Work</button> 
+            <p>Software Engineer • Former NCAA Scholar-Athlete </p>
+            <Link to="experience" smooth={true}>
+              <button className="button learn-more-button">What am I up to?</button> 
             </Link>             
           </div>
         </div>
         <Element id="about">
           <About/>
+        </Element>
+        <Element id="experience">
+          <Experience/>
         </Element>
         <Element id="portfolio">
           <Portfolio/>
